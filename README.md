@@ -1,8 +1,9 @@
 <div align="center">
     <img src="https://github.com/your-username/your-username/blob/main/banner.gif" alt="Profile Banner" width="100%">
-    <h2>👋 Welcome to My GitHub Profile!</h2>
+    <h2>👾 Welcome to My Digital Space! 🚀</h2>
     <h1>I'm <strong>Mohammed Ehab</strong></h1>
     <p>🚀 Full Stack Developer | 🎓 Student at WE School</p>
+    <img src="https://media.giphy.com/media/l3vR1vKj6FJI1bI2Q/giphy.gif" width="200px">
 </div>
 
 ---
