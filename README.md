@@ -1,9 +1,9 @@
 <div align="center">
-    <img src="https://github.com/your-username/your-username/blob/main/banner.gif" alt="Profile Banner" width="100%">
-    <h2>👾 Welcome to My Digital Space! 🚀</h2>
+    <img src="https://github.com/Moh7mmedEhab/Moh7mmedEhab/blob/main/banner.gif" alt="Profile Banner" width="100%">
+    <h2>🌌 Step into My Creative Universe! 🚀</h2>
     <h1>I'm <strong>Mohammed Ehab</strong></h1>
-    <p>🚀 Full Stack Developer | 🎓 Student at WE School</p>
-    <img src="https://media.giphy.com/media/l3vR1vKj6FJI1bI2Q/giphy.gif" width="200px">
+    <p>🚀 Full Stack Developer | 🎓 Student at WE School | 💡 Passionate Innovator</p>
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250px">
 </div>
 
 ---
@@ -34,9 +34,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moh7mmedEhab&theme=radical&hide_border=true">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=Moh7mmedEhab&show_icons=true&theme=radical&hide_border=true">
 </p>
 
 ---
@@ -44,9 +44,9 @@
 ## 📫 Let's Connect
 
 <p align="center">
-    <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+    <a href="https://github.com/Moh7mmedEhab"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://github.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
