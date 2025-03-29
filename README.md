@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -16,18 +16,21 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="300px">
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400px">
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true">
@@ -37,7 +40,7 @@
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 <p align="center">
     <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
