@@ -47,6 +47,8 @@
     <a href="https://github.com/Moh7mmedEhab"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://github.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+    <a href="https://codepen.io/"><img src="https://img.shields.io/badge/CodePen-000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+    <a href="https://cssbattle.dev/"><img src="https://img.shields.io/badge/CSSBattle-FF4088?style=for-the-badge&logo=css3&logoColor=white"></a>
 </p>
 
 ---
