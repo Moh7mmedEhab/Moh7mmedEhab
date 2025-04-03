@@ -19,6 +19,8 @@
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/WebSockets-1e1e1e?style=for-the-badge&logo=websocket&logoColor=white">
     <img src="https://img.shields.io/badge/APIs-4A90E2?style=for-the-badge&logo=api&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/NoSQL-4A92D6?style=for-the-badge&logo=npm&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
